@@ -1,0 +1,131 @@
+Tipo,Núcleo,Período,Nome,CHS,P,NP,TOTAL,Temas de estudo,Pré-requisitos,Objetivos,Bibliografia básica,Bibliografia compĺementar
+H,Optativa,-,Libras,2,2,0,30,"TE1: Surdez: aspectos educacionais e socioantropológicos (10h)
+TE2: Libras: o alfabeto, expressões manuais e não manuais (10h)
+TE3: Comunicação: processo de comunicação básica em situações informais (10h)",,," GESSER, Audrei. Libras? que língua é essa? : crenças e preconceitos em torno da língua de sinais e da realidade surda. 1. ed. São Paulo, SP: Parábola, 2009. 87 p. (Série estratégias de ensino ; 14). ISBN 9788579340017.
+
+QUADROS, Ronice Müller de; KARNOPP, Lodenir. Língua de sinais brasileira: estudos lingüísticos. Porto Alegre, RS: Artmed, 2004. 221 p. (Biblioteca Artmed). ISBN 8536303086.
+
+HONORA, Márcia,; FRIZANCO, Mary Lopes Esteves. Livro ilustrado de língua brasileira de sinais: desvendando a comunicação usada pelas pessoas com surdez. São Paulo, SP: Ciranda Cultural, 2008. 336 p. ISBN 9788538004929 (2008). "," PARANÁ. Falando com as mãos: LIBRAS língua brasileira de sinais. Curitiba: SEED/CDE/PR, 1998. 180 p.
+
+SALLES, Heloisa Maria Moreira Lima (Coord.) Ensino de língua portuguesa para surdos: caminhos para a prática pedagógica. 2. ed. Brasília: MEC/SEESP, 2007. 2. v. ISBN 978-85-60331-12-3 - vol. 2
+
+PEREIRA, Maria Cristina da Cunha et al. Libras: conhecimento além dos sinais. São Paulo, SP: Pearson, 2011. xv, 127 p. ISBN 9788576058786.
+
+ANDREIS-WITKOSKI, Silvia. Introdução à LIBRAS: língua, história e cultura. Curitiba, PR: Ed. UTFPR, 2015. 198 p. ISBN 9788570141378.
+
+VELOSO, Éden; MAIA, Valdeci. Aprenda libras com eficiência e rapidez. Curitiba, PR: Ed. MãosSinais, 2012. 228 p. + DVD ISBN 9788560683178 (broch.). "
+H,Optativa,-,A Presença Africana no Brasil,2,2,0,30,"TE1: Cultura afro-brasileira: história da África e o negro na história do Brasil, religiões africanas e sincretismo religioso, quilombos e festas afro-brasileiras, influências culturais (10h)
+TE2: Políticas públicas: estratégias de conscientização e interação. Sistema de cotas. A escravidão, alforria e cidadania no Brasil. Ações afirmativas. Diversidade étnica (10h)
+TE3: Tecnologia e trabalho:  as relações humanas, leis e punições para o racismo e a injúria racial no ambiente laboral. Adequação da linguagem na comunicação interpessoal e virtual (cyberbullying), com ênfase   aos termos pejorativos. O ``apagamento'' histórico e social dos afrodescendentes no Brasil, nas Artes, Ciências e Tecnologia (10h)",,,,
+,Optativa,-,Introdução à Robótica,4,4,0,60,"TE1: Robôs: definições, classificações baseada na estrutura física e em níveis de autonomia, e aplicações (10h)
+TE2: Sensores e atuadores: definições, diferenciação de sensores proprioceptivos e extraceptivos e motores elétricos (10h)
+TE3: Localização: técnicas de localização, soluções de dead-reckoning e fusão de dados sensoriais (10h)
+TE4: Sistemas de controle cinemático: definição, controle PID e exemplificação para robô móvel com rodas e para manipulador serial (15h)
+TE5: Navegação: definição de espaço de configuração, planejamento de caminhos e geração de trajetórias (15h)",Período: 5,,,
+,Optativa,-,Compiladores,4,4,0,60,"TE1: Compiladores e interpretadores: organização e estrutura; características de linguagens de programação (10h)
+TE2: Definição de linguagem: gramática formal, reconhecedores e autômatos (8h)
+TE3: Processo de compilação: análise léxica, sintática e semântica (24h)
+TE4: Código intermediário: Geração e otimização (18h)",Período: 5,,,
+,Optativa,-,Internet of Things,4,4,0,60,"TE1: Fundamentos: conceitos, definições e história da Internet das Coisas e comunicação máquina-máquina (M2M), protocolos e tipos de sensores (15h)
+TE2: Desenvolvimento de aplicações: frameworks para IoT, computação em nuvem, névoa e borda (15h)
+TE3: Segurança em IoT: desafios, privacidade, autenticidade de dispositivos e ataques em IoT (15h)
+TE4: Projeto: desenvolvimento de uma solução de IoT (15h)",Período: 5,"Internet of Things, ofertada para alunos do oitavo período do curso, aborda o desenvolvimento de aplicações de Internet das Coisas. Nesta disciplina, os estudantes aprendem sobre conceitos fundamentais de Internet das Coisas, tipos de sensores, procotolos de comunicação, frameworks/ferramentas, interação com serviços de computação em nuvem, névoa e borda. Ao final da disciplina, o estudante será capaz de implementar soluções baseadas em Internet das Coisas, integrando sensores, frameworks, ferramentas e plataformas de computação em nuvem de forma colaborativa, considerando atributos relacionados à segurança das aplicações.","Waher, Peter. Learning Internet of Things. Series: Community Experience Distilled. Birmingham, England : Packt Publishing.
+2015.
+
+Hillar, Gastón C. Internet of Things with Python. Series: Community Experience Distilled. Birmingham, UK : Packt Publishing.
+2016.
+
+Mukhopadhay, Subhas Chandra. Internet of Things: challenges and opportunities. New York, NY : Springer, 2014. 261 p.","Hofdijk, Jacob. Transforming Healthcare with the Internet of Things: Proceedings of the EFMI Special Topic Conference.
+Series: Studies in Health Technology and Informatics, volume 221. Amsterdam, Netherlands : IOS Press. 2016.
+
+BCS, The Chartered Institute for IT. The internet of things: Living in a Connected World Swinson, UK : BCS, The Chartered
+Institute for IT. 2017.
+
+Watts, Silvia. The Internet of Things (IoT): Applications, Technology and Privacy Issues. Series: Internet Theory, Technology
+and Applications. New York : Nova Science Publishers, Inc. 2016
+
+Russell, Brian; Van Duren, Drew. Practical Internet of Things Security. Series: Community Experience Distilled. Birmingham,
+UK : Packt Publishing. 2016"
+,Optativa,-,Desenvolvimento de Jogos,4,4,0,60,"TE1: Introdução: fundamentos de design, linguagem de programação e ambiente de desenvolvimento (20h)
+TE2: Jogos bidimensionais: objetos, texturas, colisão, regras e cenário (20h)
+TE3: Jogos tridimensionais: importação de objetos do Blender, RayCast, espelhos e cenário (20h)",Período: 5,Capacitar o aluno a desenvolver jogos digitais utilizando uma ferramenta atual de desenvolvimento e conhecimentos de programação orientada a objetos para introduzi-lo aos desafios da área.," NOVAK, Jeannie. Desenvolvimento de games. São Paulo, SP: Cengage Learning, 2011. xxviii, 443 p. ISBN 9788522106325.
+
+SCHUYTEMA, Paul. Design de games: uma abordagem prática. São Paulo, SP: Cengage Learning, 2008. xix, 447 p. ISBN 9788522106158.
+
+RABIN, Steve (Editor). Introdução ao desenvolvimento de games. São Paulo, SP: Cengage Learning, c2012. v. ISBN 9788522111466 (v. 4). "," KERNIGHAN, Brian W.; RITCHIE, Dennis M. C, a linguagem de programação. Rio de Janeiro, RJ: Campus; Porto Alegre: EDISA, 1986.. 208 p. ISBN 8570014104.
+
+CESAR, Paulo. Introdução à geometria espacial. 4. ed. Rio de Janeiro, RJ: Sociedade Brasileira de Matemática, c1999. 93 p. (Coleção professor de matemática ; 10) ISBN 8524400854.
+
+SILVA, Luciano Augusto. Simulacron: professional game & level design. Curitiba, PR: Free, 2004. 144 p.
+
+ALLAN, Alasdair. Aprendendo programação iOS: Do Xcode à App Store. 1. ed. São Paulo, SP: Novatec, 2013. 446 p. ISBN 9788575223635.
+
+PAULA FILHO, Wilson de Pádua. Multimídia: conceitos e aplicações. 2. ed. Rio de Janeiro, RJ: LTC, 2011. 368 p. ISBN 9788521617709. "
+,Optativa,-,Computação em Nuvem,4,4,0,60,"TE1: Front-end: serviço de armazenamento de arquivos estáticos e implantação de uma aplicação web (20h)
+TE2: Back-end: API Gateway, Lambda, Sistemas de Mensagem, Filas de Processamento Assíncrono Eventos (20h)
+TE3: Serviços: APIs de armazenamento de dados, busca e aprendizado de máquina (20h)",Período: 5,"Computação em Nuvem, ofertada para alunos do oitavo período do curso, aborda as principais técnicas e ferramentas utilizadas na computação em nuvem. Nesta disciplina os estudantes aprendem a desenvolver aplicações web front-end e back-end utilizando plataformas de computação em nuvem. Ao final da disciplina o estudante será capaz de implementar e implantar aplicações web em ambientes de computação em nuvem, com qualidade e robustez.
+
+","HUMBLE, Jez; FARLEY, David. Entrega Contínua. Porto Alegre: Grupo A, 2013. ISBN 9788582601044. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582601044/
+
+SILVA, Fernanda R.; SOARES, Juliane A.; SERPA, Matheus da S.; et al. Cloud Computing. Porto Alegre: Grupo A, 2020. ISBN 9786556900193. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900193/
+
+TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo, SP: Pearson Prentice Hall, 2007. 402 p. ISBN 9788576051428.","ALBUQUERQUE, Fernando. TCP/IP internet programação de sistemas distribuídos HTML, JAVASCRIPT e JAVA : Fernando Albuquerque. Rio de Janeiro: Axcel, 2001. 492 p. ISBN 85-7323-149-1.
+
+COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. Sistemas Distribuídos. Porto Alegre: Grupo A, 2013. ISBN 9788582600542. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582600542/
+
+LECHETA, Ricardo R. AWS para desenvolvedores: aprenda a instalar aplicações na nuvem da Amazon. São Paulo, SP: Novatec, 2014. 501 p. ISBN 9788575223932.
+
+MARQUES, José Alves; GUEDES, Paulo. Tecnologia de sistemas distribuídos. 2. ed. Lisboa: FCA, 1998. xviii, 501 p. ISBN 9789727221288.
+
+SINHA, Pradeep K. concepts and design . New York: IEEE Press, c1997. 1 online resource (xix, 743 p.) ISBN 9780470544419. Disponível em : <http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5487818>. Acesso em : 28 mar. 2022
+
+TANENBAUM, Andrew S. Distributed operating systems. Upper Saddle River, NJ: Prentice-Hall, c1995. 614 p. ISBN 0-13-143934-0"
+,Optativa,-,Modelagem Estatística,4,4,0,60,"TE1: Fundamentos de Regressão Linear: Regressão Linear Simples e Múltipla, Testes de Significância e Avaliação Globaldo Model (10h)
+TE2: Diagnóstico Avançado de Modelos de Regressão: Análise Residual Detalhada, Identificação e Tratamento de Outliers, Pontos de Alavancagem e Observações Influentes (10h)
+TE3: Relações Complexas e Transformações: Modelagem de Variáveis Categóricas e Termos de Interação, Relações Não-Lineares (10h)
+TE4: Modelos de Regressão Não Linear e Generalizada (GLMs): Regressão Polinomial e Splines, Modelos Lineares Generalizados, Aplicações de GLMs (20h)
+TE5: Regressão Regularizada e Seleção de Modelos: Regressão Ridge e Lasso, Critérios de seleção de modelos (10h)",Probabilidade e Estatística,,,
+,Optativa,-,Segurança da Informação,4,60,0,60,"TE1: Fundamentos de segurança: políticas, modelos de ameaça e mecanismos de segurança (10h)
+TE2: Criptologia: sistemas criptográficos simétricos, assimétricos, funções de hash e suas aplicações (15h)
+TE3: Identidade Digital: certificados digitais, assinatura digital, algoritmos de assinatura e aplicações (10h)
+TE4: Segurança em redes: protocolos, ameaças, ataques e mecanismos de segurança nas camadas de enlace de dados e transporte do modelo OSI (15h)
+TE5: Segurança de software: ataques e vulnerabilidades em aplicações, boas práticas de programação e ferramentas de teste de segurança de software (10h)",Sistemas de Computação e Comunicação de Dados,,,
+,Optativa,-,Gerenciamento de Projeto de Software,4,60,0,60,"TE1: Projetos de Software: introdução, fases e PMBOK (5h)
+TE2: Áreas de conhecimento do PMBOK: escopo, custo risco e integração (10h)
+TE3: Métricas: estimativas de produto e projeto (10h)
+TE4: Gerenciamento de Projeto: processo primário e de apoio, ciclo de vida, melhoria de processo (15h)
+TE5: Desenvolvimento de Projeto: técnicas, ferramentas e execução (20h)",Período: 5,,,
+,Optativa,-,Teoria da Computação,4,60,0,60,"TE1: Linguagens formais e autômatos: autômatos de estado finito, linguagens regulares (10h)
+TE2: Linguagens formais e gramáticas: geração de linguagens, forma normal de Chomsky (10h)
+TE3: Máquinas de Turing: princípios, computabilidade e modelos equivalentes (20h)
+TE4: Complexidade computacional: complexidade de código-fonte e problemas P e NP (20h)",Matemática Discreta,,,
+,Optativa,-,Programação de Banco de Dados,4,0,60,60,"TE1: Restrições de integridade de dados: domínios (tipos de dados); restrições impostas pelos conceitos de chaves (20h)
+TE2: Linguagem de Manipulação de Dados: Funções de agregação, operações sobre conjuntos, Operações sobre Visões; funções agregadas (20h)
+TE3: Stored Procedures; functions, triggers e transações (20h)",Período: 5,"Apresentar visão em largura e aprofundada com relação aos conceitos de Banco de Dados, abordando processamento de consultas, transações e recuperação de falhas, organização e gerenciamento, bem como novas tendências."," DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, 2000. xxiii, 803 p. ; ISBN 85-352-0560-8
+
+ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed. São Paulo: Pearson Addison-Wesley, c2005. 724 p. ISBN 85-88639-17-3.
+
+SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Rio de Janeiro, RJ: Elsevier, 2006. 781 p. ISBN 85-352-1107-8. "," ÖZSU, M. Tamer; VALDURIEZ, Patrick. Princípios de sistemas de bancos de dados distribuídos. Rio de Janeiro: Campus, 2001. 711p. ISBN 8535207139
+
+KROENKE, David M.; SOARES, Luiz Carlos Gabriel (Trad.) Banco de dados: fundamentos, projeto e implementação. 6. ed. Rio de Janeiro: LTC, c1998. 382p. ISBN 85-216-1155-2
+
+GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Implementação de sistemas de bancos de dados. Rio de Janeiro: Campus, 2001. 685 p. ISBN 85-352-0749-X.
+
+HEUSER, Carlos Alberto. Projeto de banco de dados. 6. ed. Porto Alegre: Bookman, c2009. xii, 282 p. (Livros didáticos informática UFRGS ; v. 4). ISBN 978-85-7780-382-8.
+
+PATRICK, John. SQL: fundamentos. 2. ed. São Paulo: Berkeley, 2002. 710 p. "
+,Optativa,-,Administração de Banco de Dados,4,0,60,60,"TE1: Gerenciamento: projeto físico, meios de armazenamento, particionamento, cópias de segurança e restauração (20h)
+TE2: Segurança: política de acesso; dados cifrados (20h)
+TE3: Otimização de Desempenho: monitoramento, manutenção e gerenciamento de Índices (20h)",Período: 5,"Fornecer os conceitos, técnicas e características avançadas dos Sistemas de Gerenciamento de Banco de Dados, tornando o aluno capaz de desenvolver e implementar sistemas de banco de dados."," GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Implementação de sistemas de bancos de dados. Rio de Janeiro: Campus, 2001. 685 p. ISBN 85-352-0749-X.
+
+DATE, C. J. Introdução a sistemas de bancos de dados. Rio de Janeiro, RJ: Elsevier, 2004. 865 p. ISBN 8535212736.
+
+SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. Rio de Janeiro, RJ: Elsevier, 2006. 781 p. ISBN 8535211078. "," MILANI, André. PostgreSQL: guia do programador. São Paulo: Novatec, 2008. 392 p. ISBN 9788575221570.
+
+COFFMAN, Gayle. SQL server 7 completo e total: Guia de referência . São Paulo: Makron, 2000. 691 p. ISBN 85346-1264-X.
+
+SOUZA, Marco Aurélio de. SQL, PL/SQL, SQL* plus: manual de referência completo e objetivo. Rio de Janeiro, RJ: Ciência Moderna, 2004. 425 p. ISBN 85-7393-311-9.
+
+ÖZSU, M. Tamer; VALDURIEZ, Patrick. Princípios de sistemas de bancos de dados distribuídos. Rio de Janeiro, RJ: Campus, 2001. 711p. ISBN 8535207139
+
+ELMASRI, Ramez; NAVATHE, Shamkant B. Sistemas de banco de dados. 4. ed. São Paulo: Pearson Addison-Wesley, c2005. 724 p. ISBN 85-88639-17-3. "

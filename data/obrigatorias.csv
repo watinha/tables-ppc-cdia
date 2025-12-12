@@ -1,0 +1,117 @@
+Tipo,Subtipo,Núcleo,Período,Nome,CHS,P,NP,TOTAL,Temas de estudo,Resultados de aprendizagem,Pré-requisitos,Objetivos,Competências CD,Competências IA
+,,Básico,1,Algorítmos 1,6,6,0,90,"TE1: Computadores: organização, características, funcionamento, descrição narrativa e fluxogramas (10h)
+TE2: Algoritmos: tipos primitivos de dados, constantes e variáveis, expressões lógicas e aritméticas e práticas com programação (10h)
+TE3: Estrutura de controle: desvio condicional e laços de repetição e práticas com programação (20h)
+TE4: Modularização: funções, procedimentos, passagem de parâmetros e práticas com programação (20h)
+TE5: Vetores, matrizes e registros: definições, manipulação e práticas com programação (20h)
+TE6: Fundamentos de teste de software: teste de mesa e depuração (10h)",,,,"C.1.1, ",
+,,Básico,1,Introdução a Sistemas Computacionais,2,2,0,30,"TE1: Arquiteturas gerais de computadores: organização, modelo de Von-Neumann, barramento, comunicações e interfaces com periféricos e hardware (10h)
+TE2: Componentes e estrutura do SO: processo, memória, entrada/saída e sistema de arquivos (10h)
+TE3: Administração de SO: configuração, scripts, serviços, gerenciamento de usuários, gerenciamento de tarefas e ferramentas de virtualização (10h)",,,,,
+,,Básico,1,Introdução à Ciência de Dados e IA,2,2,0,30,"TE1: Profissional de Ciência de Dados e IA: riscos no ambiente de trabalho (incêndio e desastres), visão geral do profissional, áreas de atuação e relações com o perfil do egresso do curso da UTFPR (8h)                                                  
+TE2: Aspectos da profissão: desafios do profissional, conceitos de ética e código de ética profissional (8h) 
+TE3: Visão de mercado: novas demandas e impactos no profissional, interdisciplinariedade e a aplicação em dimensões social (desenho universal), política, econômica, cultural e ambiental (14h)",,,,,
+,,Básico,1,Fundamentos de Matemática,4,4,0,60,"TE1: Conjuntos numéricos e intervalos: operações e representações (12h)
+TE2: Álgebra básica: operações com polinômios, produtos, notáveis, propriedades da potenciação e radiciação, equações e inequações (métodos de resolução e validação) (12h)
+TE3: Funções: conceitos, tipos de função representação algébrica, e gráfica com o auxílio de software classificações e aplicações na engenharia (16h)
+TE4: Trigonometria no triângulo retângulo e no ciclo trigonométrico: razões trigonométricas no triângulo retângulo, medidas de ângulos em graus e radianos, o ciclo trigonométrico, funções trigonométricas e suas inversas e aplicações à engenharia (12h)
+TE5: Números complexos: Conceito, representação na forma algébrica e operações, representação gráfica, representação polar e operações (8h)",,,,,
+H,Ciências Humanas,Básico,1,Comunicação Oral e Escrita,4,4,0,60,"TE1: Estratégias de leitura acadêmica: antecipação, seleção e síntese de informações em artigos científicos (10h)             
+TE2: Processo de produção de resumo e resenha acadêmicos: diferença, estrutura composicional, planejamento, escrita e revisão (10h)
+TE3: Processo de produção de gêneros orais acadêmicos: planejamento, produção de materiais de apoio e técnicas de interação com o público (10h)
+TE4: Processo de produção de gêneros orais empresariais: diretrizes da comunicação na organização, estratégias para comunicação externa e interna e o evento reunião empresarial (15h)
+TE5: Processo de comunicação para apresentação em público: elementos da comunicação verbal e não verbal e procedimentos para apresentação, elaboração e avaliação de exposição oral (15h)",,,,,
+,,Básico,2,Algoritmos 2,4,4,0,60,"TE1: Ponteiros: declaração, uso e atribuição, operações, representação de ponteiros na memória, passagem por referência (15h)
+TE2: Alocação Dinâmica: alocação de espaço de memória, operações com memória alocada, ponteiros de ponteiros, exemplos vetores, matrizes e registros (20h)
+TE3: Recursividade: noções de iteração com recursividade, mapeamento de laços para recursividade, recursividade com retorno, recursividade múltipla, exemplo de otimização de recursividade múltipla via programação dinâmica (25h)",Algoritmos 1,,,,
+,,Básico,2,Programação Orientada a Objetos,4,4,0,60,"TE1: Fundamentos de orientação a objetos: definições, artefatos, atributos, métodos, objetos, tipos de classes, operador de casting e o paralelo entre orientação à objetos e o paradigma estruturado (25h)
+TE2: Relacionamento entre classes e objetos: encapsulamento, herança, tipos de polimorfismo e interfaces (25h)
+TE3: Tratamento de exceções: definição, mecanismos de disparo e tratamento e classes de exceção (15h)
+TE4: Desenvolvimento de aplicações: utilização de IDEs para implementação de aplicações utilizando paradigma de orientação à objetos (25h)",Algoritmos 1,,,,
+,,Básico,2,Inteligência Artificial,4,4,0,60,"TE1: Fundamentos de IA: histórico da IA, representação do conhecimento, resolução de problemas, base de conhecimento, raciocínio encadeado e tipos de aprendizado (15h)
+TE2: Logica Fuzzy: conjunto, Fuzzificação e pertinência (15h)
+TE3: Redes Neurais: topologias, redes MLP, redes Bayesianas, algoritmo de treinamento e deep learning (15h)
+TE4: Computação Evolutiva: definições, tipos de algoritmos e algoritmos genéticos (15h)",Introdução à Ciência de Dados e IA,,,,
+,,Básico,2,Matemática Discreta,4,4,0,60,"TE1: Teoria dos conjuntos: conjuntos, lógica, funções e relações (15h)
+TE2: Teoria dos números: números inteiros, princípios de indução e outras provas matemáticas (15h)
+TE3: Combinatória: regras básicas de contagem, princípio de inclusão e exclusão (15h)
+TE4: Grafos: árvores, fluxos em redes, emparelhamentos, grafos eulerianos, hamiltonianos, planares e coloridos (15h)",Fundamentos de Matemática,,,,
+H,Ciências Humanas,Básico,2,Inglês Instrumental,4,4,0,60,"TE1: Estratégias de leitura: definições e prática de estratégias pre-reading (skimming e scanning) e reading (10h)
+TE2: Principais gêneros das esferas instrucional e virtual: definições, tipologia textual e gêneros de aplicação em Ciência de Dados e IA (tutoriais, normas, blogs, fóruns etc.) (10h)
+TE3: Estratégias de leitura frasal da língua inglesa: cognatos e principais estruturas gramaticais (10h)",,,,,
+,,Básico,3,Estrutura de Dados 1,4,4,0,60,"TE1: Tipos abstratos de dados: definições, tipos e recursos para implementações (8h)
+TE2: Pilhas e Filas: definições e operações, implementações e aplicações (26h)
+TE3: Listas: definição, tipos, operações, implementação e aplicações (26h)
+TE4: Árvore Binária: operações, busca e aplicações (30h)",Algoritmos 2,,,,
+,,Básico,3,Banco de Dados 1,4,4,0,60,"TE1: Princípios de banco de dados: conceitos, aplicações e modelo relacional (relação, tupla, atributo, restrições de integridade e normalização) e construção de representações (15h)
+TE2: Linguagem de Definição de Dados (DDL): criação, atualização e regras de integridade (20h)
+TE3: Linguagem de Manipulação de Dados (DML): consultas simples, consultas aninhadas, operações de conjuntos, funções de agregação, inserção, remoção e atualização (25h)
+TE4: Projeto de Banco de Dados: projeto conceitual, projeto lógico e projeto físico (30h)",Algoritmos 1,,,,
+,,Específico,3,Mineração de Dados,4,4,0,60,"TE1: Ferramentas de manipulação de dados: processo de KDD, padrão de representação dos dados, repositório de dados abertos, manipulação de listas, matrizes e séries temporais, ferramentas e bibliotecas disponíveis (12h)
+TE2: Pré-Processamento dos dados: análise visual dos dados, inputação de valores,  transformação do espaço de características, seleção de características e técnicas de desbalanceamento (18h)
+TE3: Aprendizado supervisionado: metodologia de validação e avaliação, algoritmos de classificação, aplicações e tendências (18h)
+TE4: Análise de resultados: importância dos atributos, seleção de modelos, curva de desempenho, análise de variabilidade (12h)",Inteligência Artificial,,,,
+,,Básico,3,Probabilidade e Estatística,4,4,0,60,"TE1: Probabilidade: espaço amostral, eventos, axiomas e teoremas (10h)
+TE2: Variável aleatórias: variável aleatória discreta, variável aleatória contínua e função de probabilidade (10h)
+TE3: Inferência estatística: estimação de parâmetros, intervalos de confiança e testes de hipóteses (10h)
+TE4: Testes de hipóteses: tipos de testes e aplicações (20h)
+TE5: Controle Estatístico do Processo: diagrama de controle e aplicações (10h)",Fundamentos de Matemática,,,,
+H,Ciências Humanas,Básico,3,Empreendedorismo,2,2,0,30,"TE1: O Mercado e as Oportunidades de Negócios: estrutura de mercado, tendências de novos negócios (8h)
+TE2: O empreendedor e fatores de sucesso: características do empreendedor, inovação e criatividade (10h)
+TE3: Gestão organizacional : conceitos, ferramentas e desenvolvimento de plano operacional, financeiro e mercadológico de um produto/serviço (12h) ",,,,,
+,,Básico,4,Estrutura de Dados 2,4,4,0,60,"TE1: Algoritmos de ordenação: fundamentos, aplicações e complexidade computacional (15h)
+TE2: Pesquisa em memória primária: algoritmo de busca sequencial e binária, uso de tabela de espalhamento (hashing) (10h)
+TE3: Árvores balanceadas: operações, busca e aplicações de árvores avl, rubro-negra, conceitos/aplicações de árvores B (15h)
+TE4: Grafos: representação, operações, busca e aplicações (10h)
+TE5: Técnicas de projeto de algoritmo: divisão e conquista, algoritmos gulosos, programação dinâmica e backtracking (10h)",Estrutura de Dados 1,,,,
+,,Básico,4,Sistemas de Computação e Comunicação de Dados,4,4,0,60,"TE1: Sistemas operacionais: classificação, estrutura, componentes, concorrência, configuração e utilização de sistemas Linux (10h)
+TE2: Processos: definição e exemplos dos uso de threads, escalonamento, sincronização e deadlocks (10h)
+TE3: Memória: formas de endereçamento, gerenciamento de memória virtual e real, alocação, swapping, segmentação e paginação de memória (10h)
+TE4: Gerenciamento de dispositivos de entrada e saída: discos, interfaces com o usuário e o conceito de spooling (10h)
+TE5: Princípios de Redes de Computadores e a Internet: conceitos, definições e aplicações, arquitetura de redes, topologia, arquitetura em camadas da Internet (10h)
+TE6: Camada de Aplicação: conceitos e utilização dos protocolos HTTP, SSH, FTP, SMTP, IMAP, POP3, DNS, P2P, VPN (10h)",Introdução a Sistemas Computacionais,,,,
+,,Específico,4,Aprendizado de Máquina 1,4,4,0,60,"TE1: Fundamentos de aprendizado de máquina: tipos de aprendizado, tarefas e etapas, probabilidade condicional, espaço amostral, teoria de decisão Bayesiana, vetores e espaços de características (10h)
+TE2: Aprendizado não supervisionado: métricas de distância e similaridade, algoritmos de clustering baseada em distancia, agrupamento hierarquico (16h)
+TE3: Aprendizado supervisionado: modelos preditivos, agrupamento de dados, metodologia de validação e avaliação, aplicações e tendências (24h)
+TE4: Metodologia de experimentação: métricas de avaliação, métodos de validação (k-fold, holdout, bootstrap, leave-one-out), análise de resultados (10h)",Probabilidade e Estatística,,,,
+,,Específico,4,Metaheurística,4,4,0,60,"TE1: Fundamentos de Otimização e Meta-heurísticas: Problemas de otimização (local/global, espaço de busca), Definição e classificação de Meta-heurísticas, Princípios e inspiração da Computação Evolutiva (CE), Visão geral de outras meta-heurísticas (PSO, ACO, Simulated Annealing) (20h)
+TE2: Algoritmos Genéticos: Ciclo de vida e estrutura do Algoritmo Genético (AG), Técnicas de Representação (binária, real, permutação), Operadores de Seleção (Torneio, Roleta), Operadores de Reprodução (Crossover) e Mutação, Controle de Parâmetros (20h)
+TE3: Aplicações: Frameworks e bibliotecas de CE (DEAP), AE em Otimização Combinatória (TSP), otimização de hiperparâmetros em Aprendizado de Máquina e Seleção de Features, Visão geral de PSO e ACO (20h)",Inteligência Artificial,,,,
+,,Específico,4,Visualização de Dados e Dashboards,4,4,0,60,"TE1: Fundamentos teóricos e percepção humana: Definição, história e a importância da visualização, Percepção Visual e Cognição, Tipos de Dados e Mapeamento Visual, Escolha do Gráfico Certo (20h)
+TE2: Princípios de Design e Boas Práticas: Visualizações Eficazes, Modelo de cores, hierarquia visual com tipografia, Visualização Exploratória/Explicativa, Visualização de Dados Multidimensionais (20h)
+TE3: Construção de dashboards: tipos de dashboards/layout, interatividade e filtros, data storytelling, ferramentas de construção de dashboards (20h)",Probabilidade e Estatística,,,,
+,,Específico,5,Engenharia de Software,4,4,0,60,"TE1: Fundamentos de Engenharia de Software e Requisitos: Conceitos básicos de ES, Ciclos de Vida (cascata, iterativo) e Metodologias Ágeis (Scrum, Kanban). Requisitos funcionais e não-funcionais, Requisitos específicos para Sistemas de IA (data quality, explicabilidade, latency), LGPD (10h)
+TE2: Modelagem, Design e Arquitetura de Software: Diagrama de Classes, Diagrama de Componentes e Diagrama de Implantação, Princípios de Design (SOLID). Padrões de Projeto Orientados a Objetos (padrões GoF), Arquiteturas de Software (microsserviços), Componentes Essenciais de Sistemas de ML (pipelines de dados, serving) (20h)
+TE3: Gerência de Configuração: ciclo de vida da GC. Conceitos de repositórios, referenciais (baselines), e workspace. Versionamento de Código (Git e Git Flow). GC aplicada a ML: Versionamento de Dados e Modelos (DVC).(15h)
+TE4: Teste, Qualidade e MLOps: Qualidade de Software, Conceitos de Verificação/Validação e técnicas de Inspeção de código, Estratégias e Tipos de Testes (Unidade, Integração, Sistema, Aceitação), Testes específicos para ML (validação de dados, modelo e bias), Integração Contínua (CI) e Entrega Contínua (CD), Princípios de MLOps, Monitoramento de modelos (data drift, model drift) (15h)",Programação Orientada a Objetos,,,,
+,,Específico,5,Web API e Integração de Dados,4,4,0,60,"TE1: Tecnologias de Web: HTML, HTTP, Browser, CSS, JavaScript (10h)
+TE2: Programação no servidor: arquitetura cliente-servidor com HTTP, recebimento de requisições, envio de respostas, tratamento de parâmetros, cookies/sessões, conexão com banco de dados (30h)
+TE3: Arquiteturas Web: arquiteturas em camadas, monolitos/microserviços, webservices/REST, filas de mensagens/fluxo de eventos e escalabilidade (estratégias de cache, redundância, replicação/fragmentação e nuvem) (10h)
+TE4: Segurança em aplicações web: criptografia, XSS, SQL Inject, HTTPS, chaves assimétricas e certificados digitais (10h)",Programação Orientada a Objetos,,,,
+,,Específico,5,Aprendizado de Máquina 2,4,4,0,60,"TE1: Métodos de Ensemble:  Fundamentos de Ensemble Learning (redução de variância e viés), Estratégias de Bagging e Pasting (Random Forests), Estratégias de Boosting (funcionamento sequencial - Gradient Boosting Machines), Algoritmos de ponta na indústria (XGBoost, LightGBM e CatBoost) (20h)
+TE2: Otimização e Automação com AutoML: conceito e motivação, Otimização do fluxo de trabalho (Engenharia de Features Automatizada), Seleção e Otimização de Modelos Automatizada (Tuning de Hyperparâmetros eficiente) (20h)
+TE3: Ética, Transparência e Governança da IA: Viés (Bias) e Justeza (Fairness) em modelos (deteção e mitigação), Governança/Accountability (Responsabilidade) e auditoria de modelos, Transparência e Explicabilidade de IA (XAI), Técnicas de XAI (Model-Agnostic e Model-Specific - LIME e SHAP) (20h)",Aprendizado de Máquina 1,,,,
+,,Específico,5,Aprendizado Profundo,4,4,0,60,"TE1: Fundamentos de Redes Neurais Artificiais: Aprendizagem supervisionada e não supervisionada; neurônio artificial e funções de ativação (30h)
+TE2: Aprendizagem profunda (Deep Learning): Redes Neurais Recorrentes; Redes Neurais Convolucionais; aplicações de Aprendizagem Profunda (30h)",Aprendizado de Máquina 1,,,,
+H,Ciências Humanas,Básico,5,Metodologia de Pesquisa,4,4,0,60,"TE1: Fundamentos da metodologia científica: ciência e tecnologia, pesquisa e desenvolvimento tecnológico, inovação tecnológica, tipos de trabalhos acadêmicos e níveis de trabalhos de conclusão (TCC de graduação e especialização, dissertação e tese), processo de produção e comunicação científica (projeto de pesquisa, estrutura do projeto de pesquisa), estrutura de um artigo científico, comparativo entre artigo científico e trabalho de conclusão (8h)
+TE2: Planejamento e desenvolvimento da pesquisa: problema de pesquisa, objetivos e hipóteses de pesquisa (8h)
+TE3: Elaboração do referencial teórico: busca em bases de dados bibliográficas, técnicas de revisão da literatura (revisão bibliométrica, revisão e mapeamento sistemático), ferramentas de apoio, normas ABNT de citações e referências e escrita científica (10h)
+TE4: Tipos de pesquisa: classificação das pesquisas e métodos de pesquisa, survey, estudo de caso, pesquisa-ação, pesquisa experimental (experimento e quasi-experimento) (20h)
+TE5: Elaboração do trabalho de conclusão de curso: revisão bibliográfica, definição de tema e objetivos (geral e específicos) e comunicação científica (refinamento do trabalho acadêmico) (14h)",Período 4,,,,
+E,,Básico,5,Projeto Extensionista 1,6,6,0,90,TE1: Participação em projeto extensionista (90h),,,,,
+,,Específico,6,Computação de Alto Desempenho,4,4,0,60,"TE1: Fundamentos Teóricos e Avaliação de Desempenho: Introdução ao paralelismo (motivação, taxonomia), arquiteturas de hardware (memória compartilhada vs. distribuída), e os princípios de projeto de algoritmos (20h)
+TE2: Programação para Memória Compartilhada e Distribuída: Técnicas de programação para ambientes multicore (uma única máquina com múltiplos núcleos) usando OpenMP, com foco em threads e sincronização (20h)
+TE3: Aceleração de Computação (GPUs e Arquiteturas Heterogêneas): Arquitetura de GPUs e o modelo de programação em massa (como CUDA ou OpenCL) (20h)",Sistemas de Computação e Comunicação de Dados,,,,
+,,Profissionalizante,6,Big Data e Computação em Nuvem,4,4,0,60,"TE1: Fundamentos e Infraestrutura de Big Data: Definição, evolução e os 5 Vs (Volume, Velocidade, Variedade, Veracidade e Valor), Sistemas Distribuídos e Paralelos para BigData, Ecossistema Hadoop, Apache Spark, Arquitetura Data Lake (conceitos, comparação com Data Warehouse) (30h)
+TE2: Computação em Nuvem: Conceitos de Computação em Nuvem, Serviços de armazenamento e processamento distribuído na nuvem (15h)
+TE3: BigData, Nuvem e Aplicações de IA: Plataformas de Machine Learning (MLOps) e serviços de IA gerenciados, aplicações de Big Data, Computação em Nuvem e Inteligência Artificial (15h)",Banco de Dados,,,,
+,,Profissionalizante,6,"PLN, LLM e Aplicações",4,4,0,60,"TE1: Processamento de Linguagem Natural: conceitos, definições e aplicações (10h)
+TE2: Tarefas de PLN: Tokenização, Part-of-Speech (POS), Stop-Words, Lematização e Reconhecimento de Entidades Nomeadas (10h)
+TE3: Bag-Of-Words (BOW): representação, APIs de extração de características, padronização de entrada, redução de dimensionalidade (filtragem de stop-words, Stemmer e Lematização), n-gramas, importância de características/palavras e aplicações para Recuperação de Informação, Classificação de Documentos, Clusterização e Topicalização (20h)
+TE4: Deep Learning: Embeddings, Redes Neurais Recorrentes, Transformers, Large Language Models, Transfer Learning e aplicações para Classificação de Documentos e Geração de Texto (20h)",Aprendizado de Máquina 1,,,,
+,,Profissionalizante,6,Visão Computacional,4,4,0,60,"TE1: Fundamentos de processamento de imagens: representação de imagens digitais, sistema visual humano, composição da cor, digitalização, modelo de imagens, métodos de espaço de estados, resolução espacial, profundidade, amostragem e quantização (12h)
+TE2: Transformações de intensidade e filtragem espacial : processamento de histograma, transformação da escala de cinza, convolução, filtros espaciais de suavização e aguçamento (24h)
+TE3: Realce de imagens baseado em cores e transformações morfológicas: sistemas de cor, transformação pseudocor, realce com transformação HSV, dilação, erosão, abertura e fechamento (12h)
+TE4: Segmentação e descrição: limiarização local e global, crescimento de regiões, detecção de bordas, descritores de cor, forma e textura (12h)",Aprendizado de Máquina 1,,,,
+E,,Básico,6,Oficina de Integração 1,6,6,0,90,"TE1: Integração dos conhecimentos das disciplinas da área de Computação do primeiro, segundo e terceiro, quarto e quinto períodos. Aplicação desses conhecimentos em todas as etapas do desenvolvimento de um sistema computacional que resolva um problema real da comunidade externa a UTFPR (90h)",,,,,
+E,,Básico,7,Oficina de Integração 2,6,6,0,90,"TE1: Integração dos conhecimentos das disciplinas da área de Ciência de Dados e Inteligência Artificial do primeiro, segundo e terceiro, quarto, quinto e sexto períodos. Aplicação desses conhecimentos em todas as etapas do desenvolvimento de um sistema computacional que resolva um problema real da comunidade externa a UTFPR (105h)",,,,,
