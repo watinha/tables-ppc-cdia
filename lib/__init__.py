@@ -258,12 +258,12 @@ def generate_themes_and_results (df_required):
 def generate_summary_table(df_required, df_opts, ch_opts, ch_at, ch_intern, ch_total):
   ch_required = df_required['TOTAL'].sum()
   ch_required_percent = round((ch_required / ch_total) * 100)
-  ch_opt = ch_opts
+  ch_humanities_opt = 30 #df_opts.loc[df_opts['Tipo'] == 'H']['TOTAL'].sum()
+  ch_opt = ch_opts + ch_humanities_opt
   ch_ext = df_required.loc[df_required['Tipo'] == 'E']['TOTAL'].sum()
   ch_ext_percent = round((ch_ext / ch_total) * 100)
   ch_ead = df_required['NP'].sum()# + ch_opts
   ch_ead_percent = round((ch_ead / ch_total) * 100)
-  ch_humanities_opt = 30 #df_opts.loc[df_opts['Tipo'] == 'H']['TOTAL'].sum()
   ch_unit = ch_required + ch_opts + ch_humanities_opt
   ch_min_humanities = round(ch_unit / 10)
   ch_humanities = df_required.loc[df_required['Tipo'] == 'H']['TOTAL'].sum()

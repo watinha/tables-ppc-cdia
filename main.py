@@ -3,15 +3,16 @@ import pandas as pd
 from lib import generate_table_per_area, generate_ead_table, generate_ch_human_table, generate_units_table_per_period, generate_curricular_units, generate_themes_and_results, generate_summary_table
 
 CH_OPT = 120
-CH_TCC1 = 60
+CH_OPT_HUM = 30
+CH_TCC1 = 30
 CH_TCC2 = 60
 CH_INTERN = 360
 CH_AT = 180
 
 df_required = pd.read_csv('./data/obrigatorias.csv')
 df_opt = pd.read_csv('./data/optativas.csv')
-CH_UNIT = df_required.loc[:, 'TOTAL'].sum() + CH_OPT
-CH_TOTAL = CH_UNIT + CH_INTERN + CH_AT
+CH_UNIT = df_required.loc[:, 'TOTAL'].sum() + CH_OPT + CH_OPT_HUM
+CH_TOTAL = CH_UNIT + CH_INTERN + CH_AT + CH_TCC1 + CH_TCC2
 
 generate_table_per_area(df_required, CH_OPT, CH_UNIT, CH_AT, CH_INTERN, CH_TOTAL)
 generate_ead_table(df_required, CH_OPT, CH_TOTAL)
