@@ -84,7 +84,7 @@ def generate_ead_table (required_df, ch_opt, ch_total):
 
 def generate_ch_human_table (df_required, df_opt, ch_unit):
   human_required = df_required.loc[df_required['Tipo'] == 'H'].to_dict('records')
-  total_human = df_required.loc[df_required['Tipo'] == 'H'].loc[:, 'TOTAL'].sum()
+  total_human = df_required.loc[df_required['Tipo'] == 'H'].loc[:, 'TOTAL'].sum() + 30
   human_opt = df_opt.loc[df_opt['Tipo'] == 'H'].to_dict('records')
 
   tex = '''\\begin{quadro}[ht!]

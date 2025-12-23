@@ -40,7 +40,7 @@ TE4: Árvore Binária: operações, busca e aplicações (30h)",,Algoritmos 2,,,
 TE2: Linguagem de Definição de Dados (DDL): criação, atualização e regras de integridade (20h)
 TE3: Linguagem de Manipulação de Dados (DML): consultas simples, consultas aninhadas, operações de conjuntos, funções de agregação, inserção, remoção e atualização (25h)
 TE4: Projeto de Banco de Dados: projeto conceitual, projeto lógico e projeto físico (30h)",,Algoritmos 1,,,
-,,Específico,3,Mineração de Dados,4,4,0,60,"TE1: Ferramentas de manipulação de dados: processo de KDD, padrão de representação dos dados, repositório de dados abertos, manipulação de listas, matrizes e séries temporais, ferramentas e bibliotecas disponíveis (12h)
+,,Específico,3,Engenharia de Dados,4,4,0,60,"TE1: Ferramentas de manipulação de dados: processo de KDD, padrão de representação dos dados, repositório de dados abertos, manipulação de listas, matrizes e séries temporais, ferramentas e bibliotecas disponíveis (12h)
 TE2: Pré-Processamento dos dados: análise visual dos dados, inputação de valores,  transformação do espaço de características, seleção de características e técnicas de desbalanceamento (18h)
 TE3: Aprendizado supervisionado: metodologia de validação e avaliação, algoritmos de classificação, aplicações e tendências (18h)
 TE4: Análise de resultados: importância dos atributos, seleção de modelos, curva de desempenho, análise de variabilidade (12h)",,Inteligência Artificial,,,
